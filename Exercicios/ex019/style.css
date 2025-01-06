@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* 
+em HTML5 é id = em CSS3 é # (só pode um elemento)
+em HTML5 é class = em CSS3 é . (pode vários elementos)
+*/
+
+body{
+    background-color: #bdf5a77e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#principal{
+    text-align: center;
+    color: #ffffff;
+    background-color: #268002be;
+    text-decoration: 0;
+}
+h1{
+    color: #258002;
+    text-decoration: underline;
+}
+h2{
+    color: #164703;
+}
+.basico{
+    color: #003cff;
+    font-weight: bolder;
+}
+.intermediario{
+    color: #ff0000;
+}
+.sub{
+    color: #0000ff;
+}
+.destaque span{
+    color: #ff0000;
+    font-weight: bolder;
+}

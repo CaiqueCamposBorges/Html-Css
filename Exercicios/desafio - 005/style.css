@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-color: #2B3133;
+    width: auto;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
+
+#principal{
+    background-color: #2A3A40;
+    border-radius: 33px;
+    color: #00ABEB;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #2B3133;
+}
+
+.importante{
+    color: #00ABEB;
+}
+
+.basico{
+    color: #2095C0;
+}
+
+a:visited{
+    color: #000;
+}
+
+a:hover{
+    color: orangered;
+}
+.interacao{
+    color: #365D6B;
+}
